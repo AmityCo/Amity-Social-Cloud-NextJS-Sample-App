@@ -12,6 +12,7 @@
     "@amityco/js-sdk": "5.26.0",
     "@amityco/ui-kit": "^2.14.1",
     "next": "12.2.5",
+    "next-transpile-modules": "^9.1.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "styled-components": "^5.3.5"

@@ -1,7 +1,7 @@
 import AmityClient, { ConnectionStatus, ApiEndpoint } from "@amityco/js-sdk";
 
 function AuthProvider({ children, onConnected }) {
-  const apiKey = ""; // Add your api key here
+  const apiKey = "b3babb0b3a89f4341d31dc1a01091edcd70f8de7b23d697f"; // Add your api key here
   function login() {
     const client = new AmityClient({
       apiKey: apiKey,
